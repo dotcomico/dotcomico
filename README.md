@@ -9,8 +9,8 @@ deployment. I've also built mobile applications, and lately I've been
 going deep on Python — LLMs, AI, web scraping, computer vision, and
 whatever interesting problem shows up next.
 
-I care about clean code and solid architecture. Not because someone
-told me to, but because I've read enough messy code to know the difference.
+<!-- I care about clean code and solid architecture. Not because someone
+told me to, but because I've read enough messy code to know the difference. -->
 
 > Most of my projects are private for now — they'll go public when
 > they're ready. I'm not in a rush, I'm in a process. 🚧
@@ -86,7 +86,4 @@ cases, not just the happy path.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dotan-siman-tov-52b5b5298)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dotan.simantov.dev@gmail.com)
-## 📫 Let's Connect!
-- 💼 **LinkedIn:** www.linkedin.com/in/dotan-siman-tov-52b5b5298]
-- 📧 **Email:** dotan.simantov.dev@gmail.com
-<!-- 🌍 **Portfolio:** [your-portfolio] -->
+
