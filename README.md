@@ -1,5 +1,5 @@
 # Hey, I'm Dotan 👋
-### Full-Stack Developer | Python & Node.js | Builder at Heart
+### Full-Stack Developer | Python & Node.js 
 
 I like building things from scratch — whether it's a web app, a mobile app,
 a game, or something that scrapes the internet at 2am for no good reason.
