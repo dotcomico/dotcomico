@@ -5,7 +5,7 @@ I like building things from scratch — whether it's a web app, a mobile app,
 a game, or something that scrapes the internet at 2am for no good reason.
 
 My stack spans the full product: frontend to backend, databases to
-deployment. I've also built mobile applications, and lately I've been
+deployment. I've also built mobile applications (that are currently published on Google Play), and lately I've been
 going deep on Python — LLMs, AI, web scraping, computer vision, and
 whatever interesting problem shows up next.
 
