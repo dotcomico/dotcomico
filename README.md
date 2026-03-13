@@ -77,7 +77,7 @@ cases, not just the happy path.
 *(Most of my work lives in private repos — these numbers are just the tip)*
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dotcomico&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dotcomico&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dotcomico&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180" />
 </p>
 
