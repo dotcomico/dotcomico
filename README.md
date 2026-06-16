@@ -17,6 +17,19 @@ told me to, but because I've read enough messy code to know the difference. -->
 
 ---
 
+## 🚀 Featured Project
+
+### [AllyCat](https://www.npmjs.com/package/allycat) — Accessibility CLI Analyzer
+> Source-first accessibility analyzer for the web — built for developers, not auditors.
+
+- **1,000+ downloads in the first 1.5 weeks** after launch
+- Supports JSX/TSX, Vue, Angular — zero build tools required
+- Watch mode, `--baseline` flag, full axe-core integration
+- Built with Node.js, Playwright, JSDOM, Babel, Chokidar, ESM
+- Open source under the **[AllyCatHQ](https://github.com/AllyCatHQ)** GitHub org
+
+---
+
 ## 🛠️ My Tech Stack
 
 ### Frontend & UI
@@ -49,10 +62,8 @@ told me to, but because I've read enough messy code to know the difference. -->
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ### Mobile & Game Dev
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ### Tools & DevOps
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -84,6 +95,5 @@ cases, not just the happy path.
 ---
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dotan-siman-tov-52b5b5298)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dotan-siman-tov)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dotan.simantov.dev@gmail.com)
-
