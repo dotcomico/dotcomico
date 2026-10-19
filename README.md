@@ -21,16 +21,86 @@ told me to, but because I've read enough messy code to know the difference. -->
 
 ---
 
-## Featured Project
+## ⭐ Featured Projects
 
 ### [AllyCat](https://www.npmjs.com/package/allycat) — Accessibility CLI Analyzer
 > Source-first accessibility analyzer for the web — built for developers, not auditors.
 
-- **1,000+ downloads in the first 1.5 weeks** after launch
-- Supports JSX/TSX, Vue, Angular — zero build tools required
-- Watch mode, `--baseline` flag, full axe-core integration
+[![npm version](https://img.shields.io/npm/v/allycat?style=flat-square&color=CB3837&logo=npm)](https://www.npmjs.com/package/allycat)
+[![npm downloads](https://img.shields.io/npm/dt/allycat?style=flat-square&label=downloads)](https://www.npmjs.com/package/allycat)
+[![GitHub](https://img.shields.io/badge/source-AllyCatHQ-181717?style=flat-square&logo=github)](https://github.com/AllyCatHQ/allycat-core)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AllyCatHQ/allycat-core/main/assets/demo-optimize.gif" width="720" alt="AllyCat scanning a project in the terminal and reporting accessibility issues with exact file and line numbers">
+</p>
+
+- **2,500+ npm downloads** — 1,000+ of them in the first 1.5 weeks after launch
+- Scans JSX/TSX, Vue, Angular & HTML **without a running server** — exact line numbers, zero build tools required
+- `allycat fix` hands the found issues straight to **Claude Code** in a new terminal to fix them
+- Watch mode, `--baseline` flag, CI gates, WCAG 2.1 / 2.2 AA via axe-core
+- CI on Ubuntu / macOS / Windows with GitHub Actions, published with npm Trusted Publishing
 - Built with Node.js, Playwright, JSDOM, Babel, Chokidar, ESM
 - Open source under the **[AllyCatHQ](https://github.com/AllyCatHQ)** GitHub org
+
+### [Dotmarket](https://github.com/dotcomico/dotmarket) — Full-Stack Supermarket + AI Assistant
+> A full online supermarket: a customer storefront and a complete admin back office.
+
+<table>
+<tr>
+<td width="50%"><img src="https://raw.githubusercontent.com/dotcomico/dotmarket/main/media/screenshots/cart-checkout.gif" width="100%" alt="Adding products to the cart and going through checkout in the Dotmarket storefront"></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/dotcomico/dotmarket/main/media/screenshots/admin-product-crud.gif" width="100%" alt="Creating and editing a product in the Dotmarket admin back office"></td>
+</tr>
+<tr>
+<td align="center"><sub><b>Storefront</b> — cart & checkout</sub></td>
+<td align="center"><sub><b>Admin</b> — product management</sub></td>
+</tr>
+</table>
+
+- **React 19 + TypeScript** frontend (Vite, Zustand, React Router 7)
+- **Flask REST API** — layered routes → services → models, JWT auth + role-based access
+- **AI chat assistant** — a FastAPI service runs an LLM (local Ollama) that calls an **MCP server** to answer with real product data
+- Runs as a 6-service **Docker Compose** stack behind an nginx reverse proxy
+- Repos: [workspace](https://github.com/dotcomico/dotmarket) · [client](https://github.com/dotcomico/dotmarket-client) · [server](https://github.com/dotcomico/dotmarket-server)
+
+---
+
+## 📱 Live on Google Play
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><img src="assets/quicksend-icon.png" width="28" align="center" alt=""> <a href="https://play.google.com/store/apps/details?id=com.dotcom.quicksendwhatsapp">Quick Send – Direct Chat</a></h3>
+Send a WhatsApp message to a number without saving it as a contact.
+<br><br>
+<img src="assets/quicksend-send.png" width="48%" alt="Quick Send home screen: type a number and send a WhatsApp message without saving the contact">
+<img src="assets/quicksend-widget.png" width="48%" alt="Quick Send floating widget shown over the phone home screen">
+<br>
+<sub>Floating widget (Foreground Service) · WhatsApp Business support · message history & templates · EN/HE · dark mode</sub>
+<br>
+<sub><b>Java · Android · Material Design 3</b> · 100+ downloads</sub>
+</td>
+<td width="50%" valign="top">
+<h3><img src="assets/kashnik-icon.png" width="28" align="center" alt=""> <a href="https://play.google.com/store/apps/details?id=com.myappname.kashniks">Kashnik</a></h3>
+An indoor guide for Kiryat Sharet High School (Holon), used by real students.
+<br><br>
+<img src="assets/kashnik-nav.png" width="48%" alt="Kashnik directions screen with photo-based navigation between classrooms">
+<img src="assets/kashnik-home.png" width="48%" alt="Kashnik screen for saving an encrypted locker code">
+<br>
+<sub>~44 rooms mapped by hand with annotated photo directions · weekly class schedule · encrypted locker codes · Hebrew UI</sub>
+<br>
+<sub><b>Java · Android · Material Design 3</b> · 50+ downloads</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## 🧪 More Public Projects
+
+### [Sticky Notes Todo](https://github.com/dotcomico/sticky-notes-todo) — [Live Demo ↗](https://dotcomico.github.io/sticky-notes-todo/)
+A task board that looks like a corkboard covered in sticky notes. Plain HTML, CSS and JavaScript — no frameworks, no build step.
+
+<img src="https://raw.githubusercontent.com/dotcomico/sticky-notes-todo/main/docs/screenshots/desktop.jpg" width="600" alt="Sticky Notes Todo board with colorful notes pinned on a corkboard">
 
 ---
 
@@ -108,3 +178,4 @@ cases, not just the happy path.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dotan-siman-tov)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dotan.simantov.dev@gmail.com)
+[![npm](https://img.shields.io/badge/npm-allycat-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/allycat)
