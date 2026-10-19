@@ -9,6 +9,10 @@ deployment. I've also built mobile applications (that are currently published on
 going deep on Python — LLMs, AI, web scraping, computer vision, and
 whatever interesting problem shows up next.
 
+🥋 Before code, there was judo — I'm a former **Israeli National Judo Team** athlete
+(Israeli Champion, competed in Europe). I learned to code between training sessions,
+and the same discipline carried over: show up every day, get a little better.
+
 <!-- I care about clean code and solid architecture. Not because someone
 told me to, but because I've read enough messy code to know the difference. -->
 
