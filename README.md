@@ -26,9 +26,10 @@ told me to, but because I've read enough messy code to know the difference. -->
 ### [AllyCat](https://www.npmjs.com/package/allycat) — Accessibility CLI Analyzer
 > Source-first accessibility analyzer for the web — built for developers, not auditors.
 
-[![npm version](https://img.shields.io/npm/v/allycat?style=flat-square&color=CB3837&logo=npm)](https://www.npmjs.com/package/allycat)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/allycat)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AllyCatHQ/allycat-core)
+[![npm version](https://img.shields.io/npm/v/allycat?style=flat-square&color=CB3837&label=version)](https://www.npmjs.com/package/allycat)
 [![npm downloads](https://img.shields.io/npm/dt/allycat?style=flat-square&label=downloads)](https://www.npmjs.com/package/allycat)
-[![GitHub](https://img.shields.io/badge/source-AllyCatHQ-181717?style=flat-square&logo=github)](https://github.com/AllyCatHQ/allycat-core)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AllyCatHQ/allycat-core/main/assets/demo-optimize.gif" width="720" alt="AllyCat scanning a project in the terminal and reporting accessibility issues with exact file and line numbers">
@@ -44,6 +45,8 @@ told me to, but because I've read enough messy code to know the difference. -->
 
 ### [Dotmarket](https://github.com/dotcomico/dotmarket) — Full-Stack Supermarket + AI Assistant
 > A full online supermarket: a customer storefront and a complete admin back office.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dotcomico/dotmarket)
 
 <table>
 <tr>
@@ -70,6 +73,9 @@ told me to, but because I've read enough messy code to know the difference. -->
 <tr>
 <td width="50%" valign="top">
 <h3><img src="assets/quicksend-icon.png" width="28" align="center" alt=""> <a href="https://play.google.com/store/apps/details?id=com.dotcom.quicksendwhatsapp">Quick Send – Direct Chat</a></h3>
+<a href="https://play.google.com/store/apps/details?id=com.dotcom.quicksendwhatsapp"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a>
+<img src="https://img.shields.io/badge/source-private-lightgrey?style=flat-square&logo=github" alt="Source code is private">
+<br><br>
 Send a WhatsApp message to a number without saving it as a contact.
 <br><br>
 <img src="assets/quicksend-send.png" width="48%" alt="Quick Send home screen: type a number and send a WhatsApp message without saving the contact">
@@ -81,6 +87,9 @@ Send a WhatsApp message to a number without saving it as a contact.
 </td>
 <td width="50%" valign="top">
 <h3><img src="assets/kashnik-icon.png" width="28" align="center" alt=""> <a href="https://play.google.com/store/apps/details?id=com.myappname.kashniks">Kashnik</a></h3>
+<a href="https://play.google.com/store/apps/details?id=com.myappname.kashniks"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a>
+<img src="https://img.shields.io/badge/source-private-lightgrey?style=flat-square&logo=github" alt="Source code is private">
+<br><br>
 An indoor guide for Kiryat Sharet High School (Holon), used by real students.
 <br><br>
 <img src="assets/kashnik-nav.png" width="48%" alt="Kashnik directions screen with photo-based navigation between classrooms">
@@ -97,7 +106,18 @@ An indoor guide for Kiryat Sharet High School (Holon), used by real students.
 
 ## 🧪 More Public Projects
 
-### [Sticky Notes Todo](https://github.com/dotcomico/sticky-notes-todo) — [Live Demo ↗](https://dotcomico.github.io/sticky-notes-todo/)
+### [Crypto Tracker](https://github.com/dotcomico/crypto)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2ea44f?style=flat-square&logo=githubpages&logoColor=white)](https://dotcomico.github.io/crypto/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dotcomico/crypto)
+
+Live prices for the top 100 coins in USD / EUR / ILS, search, and a personal 5-coin watchlist. Vanilla JavaScript (ES modules), jQuery and Bootstrap 5 on the CoinGecko API, with client-side caching to keep API calls low.
+
+<img src="https://raw.githubusercontent.com/dotcomico/crypto/main/docs/screenshots/home.png" width="600" alt="Crypto Tracker home screen with a list of coin cards">
+
+### [Sticky Notes Todo](https://github.com/dotcomico/sticky-notes-todo)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2ea44f?style=flat-square&logo=githubpages&logoColor=white)](https://dotcomico.github.io/sticky-notes-todo/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dotcomico/sticky-notes-todo)
+
 A task board that looks like a corkboard covered in sticky notes. Plain HTML, CSS and JavaScript — no frameworks, no build step.
 
 <img src="https://raw.githubusercontent.com/dotcomico/sticky-notes-todo/main/docs/screenshots/desktop.jpg" width="600" alt="Sticky Notes Todo board with colorful notes pinned on a corkboard">
