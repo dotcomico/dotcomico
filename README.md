@@ -30,12 +30,13 @@ told me to, but because I've read enough messy code to know the difference. -->
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AllyCatHQ/allycat-core)
 [![npm version](https://img.shields.io/npm/v/allycat?style=flat-square&color=CB3837&label=version)](https://www.npmjs.com/package/allycat)
 [![npm downloads](https://img.shields.io/npm/dt/allycat?style=flat-square&label=downloads)](https://www.npmjs.com/package/allycat)
+[![YouTube](https://img.shields.io/badge/See_it_in_action-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/RR18pCETqjA)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AllyCatHQ/allycat-core/main/assets/demo-optimize.gif" width="720" alt="AllyCat scanning a project in the terminal and reporting accessibility issues with exact file and line numbers">
 </p>
 
-- **2,500+ npm downloads** — 1,000+ of them in the first 1.5 weeks after launch
+- **3K+ npm downloads** — 1,000+ of them in the first 1.5 weeks after launch
 - Scans JSX/TSX, Vue, Angular & HTML **without a running server** — exact line numbers, zero build tools required
 - `allycat fix` hands the found issues straight to **Claude Code** in a new terminal to fix them
 - Watch mode, `--baseline` flag, CI gates, WCAG 2.1 / 2.2 AA via axe-core
@@ -121,21 +122,28 @@ An indoor guide for Kiryat Sharet High School (Holon), used by real students.
 
 ## 🧪 More Public Projects
 
-### [Crypto Tracker](https://github.com/dotcomico/crypto)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2ea44f?style=flat-square&logo=githubpages&logoColor=white)](https://dotcomico.github.io/crypto/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dotcomico/crypto)
-
-Live prices for the top 100 coins in USD / EUR / ILS, search, and a personal 5-coin watchlist. Vanilla JavaScript (ES modules), jQuery and Bootstrap 5 on the CoinGecko API, with client-side caching to keep API calls low.
-
-<img src="https://raw.githubusercontent.com/dotcomico/crypto/main/docs/screenshots/home.png" width="600" alt="Crypto Tracker home screen with a list of coin cards">
-
-### [Sticky Notes Todo](https://github.com/dotcomico/sticky-notes-todo)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2ea44f?style=flat-square&logo=githubpages&logoColor=white)](https://dotcomico.github.io/sticky-notes-todo/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dotcomico/sticky-notes-todo)
-
-A task board that looks like a corkboard covered in sticky notes. Plain HTML, CSS and JavaScript — no frameworks, no build step.
-
-<img src="https://raw.githubusercontent.com/dotcomico/sticky-notes-todo/main/docs/screenshots/desktop.jpg" width="600" alt="Sticky Notes Todo board with colorful notes pinned on a corkboard">
+<table>
+<tr>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/dotcomico/crypto">Crypto Tracker</a></h4>
+<a href="https://dotcomico.github.io/crypto/"><img src="https://img.shields.io/badge/Live_Demo-2ea44f?style=flat-square&logo=githubpages&logoColor=white" alt="Live Demo"></a>
+<a href="https://github.com/dotcomico/crypto"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+<br><br>
+<img src="https://raw.githubusercontent.com/dotcomico/crypto/main/docs/screenshots/home.png" width="100%" alt="Crypto Tracker home screen with a list of coin cards">
+<br>
+<sub>Live prices for the top 100 coins in USD / EUR / ILS, search, and a personal 5-coin watchlist. Vanilla JavaScript (ES modules), jQuery and Bootstrap 5 on the CoinGecko API, with client-side caching to keep API calls low.</sub>
+</td>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/dotcomico/sticky-notes-todo">Sticky Notes Todo</a></h4>
+<a href="https://dotcomico.github.io/sticky-notes-todo/"><img src="https://img.shields.io/badge/Live_Demo-2ea44f?style=flat-square&logo=githubpages&logoColor=white" alt="Live Demo"></a>
+<a href="https://github.com/dotcomico/sticky-notes-todo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+<br><br>
+<img src="https://raw.githubusercontent.com/dotcomico/sticky-notes-todo/main/docs/screenshots/desktop.jpg" width="100%" alt="Sticky Notes Todo board with colorful notes pinned on a corkboard">
+<br>
+<sub>A task board that looks like a corkboard covered in sticky notes. Plain HTML, CSS and JavaScript — no frameworks, no build step.</sub>
+</td>
+</tr>
+</table>
 
 ---
 
