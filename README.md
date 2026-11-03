@@ -69,6 +69,21 @@ told me to, but because I've read enough messy code to know the difference. -->
 
 ## 📱 Live on Google Play
 
+<h3><img src="assets/scrollshift-icon.png" width="28" align="center" alt=""> <a href="https://play.google.com/store/apps/details?id=com.dotcoms.scrollshift">ScrollShift – Block Reels</a></h3>
+<a href="https://play.google.com/store/apps/details?id=com.dotcoms.scrollshift"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a>
+<a href="https://github.com/dotcomico/scrollshift"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Source code on GitHub"></a>
+<a href="https://youtu.be/Nl5k8GGepVE"><img src="https://img.shields.io/badge/Promo_video-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Promo video on YouTube"></a>
+<a href="https://youtu.be/8nrqSRWYF2M"><img src="https://img.shields.io/badge/How_it_works-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="How the Accessibility Service is used, on YouTube"></a>
+<br><br>
+Stops Instagram Reels and endless scrolling the moment they start, then offers something better to do. Offline and private.
+<br><br>
+<a href="https://youtu.be/Nl5k8GGepVE"><img src="assets/scrollshift-demo.gif" width="100%" alt="ScrollShift blocking a Reel and showing a focus card with a squat, a brain teaser and a breathing exercise, then stopping the endless feed"></a>
+<br>
+<sub>Accessibility Service that reads Instagram's UI tree · Reels from friends in DMs still play · focus card with workout + TTS coach, quiz, breathing · no internet permission · stats & streaks · EN/HE · dark mode</sub>
+<br>
+<sub><b>Java · Android · Material Components</b></sub>
+<br><br>
+
 <table>
 <tr>
 <td width="50%" valign="top">
