@@ -53,14 +53,19 @@ told me to, but because I've read enough messy code to know the difference. -->
 [![AI](https://img.shields.io/badge/AI-MCP_+_Ollama-6E40C9?style=flat-square&logo=modelcontextprotocol&logoColor=white)](https://github.com/dotcomico/dotmarket)
 [![Docker Hub](https://img.shields.io/badge/Docker_Hub-4_images-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/u/dotcomico)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dotcomico/dotmarket/main/media/screenshots/ai-chat.gif" width="720" alt="Opening the Dotmarket AI Chat panel, asking “Any cookies under $5?” and getting two real cookies from the catalog with prices and stock, then asking “Which one is cheaper?” and getting an answer based on the earlier conversation">
+  <br><sub><b>AI shopping assistant</b> — answers come from the live catalog through MCP tools, not from the model's memory</sub>
+</p>
+
 <table>
 <tr>
-<td width="50%"><img src="https://raw.githubusercontent.com/dotcomico/dotmarket/main/media/screenshots/cart-checkout.gif" width="100%" alt="Adding products to the cart and going through checkout in the Dotmarket storefront"></td>
-<td width="50%"><img src="https://raw.githubusercontent.com/dotcomico/dotmarket/main/media/screenshots/admin-product-crud.gif" width="100%" alt="Creating and editing a product in the Dotmarket admin back office"></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/dotcomico/dotmarket/main/media/screenshots/hero-storefront.png" width="100%" alt="Dotmarket storefront home page with a hero banner, category tiles, new arrivals with quantity steppers and the AI chat button"></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/dotcomico/dotmarket/main/media/screenshots/admin-dashboard.png" width="100%" alt="Dotmarket admin dashboard with revenue, orders, low-stock alerts and a recent orders table"></td>
 </tr>
 <tr>
-<td align="center"><sub><b>Storefront</b> — cart & checkout</sub></td>
-<td align="center"><sub><b>Admin</b> — product management</sub></td>
+<td align="center"><sub><b>Storefront</b> — home page</sub></td>
+<td align="center"><sub><b>Admin</b> — dashboard & low-stock alerts</sub></td>
 </tr>
 </table>
 
