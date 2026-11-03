@@ -51,7 +51,7 @@ told me to, but because I've read enough messy code to know the difference. -->
 [![Client](https://img.shields.io/badge/client-React_19_+_TS-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/dotcomico/dotmarket-client)
 [![Server](https://img.shields.io/badge/server-Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://github.com/dotcomico/dotmarket-server)
 [![AI](https://img.shields.io/badge/AI-MCP_+_Ollama-6E40C9?style=flat-square&logo=modelcontextprotocol&logoColor=white)](https://github.com/dotcomico/dotmarket)
-[![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/dotcomico/dotmarket)
+[![Docker Hub](https://img.shields.io/badge/Docker_Hub-4_images-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/u/dotcomico)
 
 <table>
 <tr>
@@ -67,7 +67,7 @@ told me to, but because I've read enough messy code to know the difference. -->
 - **React 19 + TypeScript** frontend (Vite, Zustand, React Router 7)
 - **Flask REST API** — layered routes → services → models, JWT auth + role-based access
 - **AI chat assistant** — a FastAPI service runs an LLM (local Ollama) that calls an **MCP server** to answer with real product data
-- Runs as a 6-service **Docker Compose** stack behind an nginx reverse proxy
+- Runs as a 6-service **Docker Compose** stack behind an nginx reverse proxy — images published on [Docker Hub](https://hub.docker.com/u/dotcomico)
 - Repos: [workspace](https://github.com/dotcomico/dotmarket) · [client](https://github.com/dotcomico/dotmarket-client) · [server](https://github.com/dotcomico/dotmarket-server)
 
 ---
