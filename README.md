@@ -48,6 +48,10 @@ told me to, but because I've read enough messy code to know the difference. -->
 > A full online supermarket: a customer storefront and a complete admin back office.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dotcomico/dotmarket)
+[![Client](https://img.shields.io/badge/client-React_19_+_TS-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/dotcomico/dotmarket-client)
+[![Server](https://img.shields.io/badge/server-Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://github.com/dotcomico/dotmarket-server)
+[![AI](https://img.shields.io/badge/AI-MCP_+_Ollama-6E40C9?style=flat-square&logo=modelcontextprotocol&logoColor=white)](https://github.com/dotcomico/dotmarket)
+[![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/dotcomico/dotmarket)
 
 <table>
 <tr>
