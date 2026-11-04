@@ -1,23 +1,24 @@
-# Hey, I'm Dotan 👋
+# Hey, I'm Dotan 
 ### Full-Stack Developer | Python & Node.js 
 
-I like building things from scratch — whether it's a web app, a mobile app,
+I like building things from scratch - whether it's a web app, a mobile app,
 a game, or something that scrapes the internet at 2am for no good reason.
 
 My stack spans the full product: frontend to backend, databases to
 deployment. I've also built mobile applications (that are currently published on Google Play), and lately I've been
-going deep on Python — LLMs, AI, web scraping, computer vision, and
+going deep on Python - LLMs, AI, web scraping, computer vision, and
 whatever interesting problem shows up next.
 
-🥋 Before code, there was judo — I'm a former **Israeli National Judo Team** athlete
-(Israeli Champion, competed in Europe). I learned to code between training sessions,
+Before code, there was judo - As a former **ISR National Judo Team** athlete
+(ISR Champion, competed in Europe). I learned to code between training sessions,
 and the same discipline carried over: show up every day, get a little better.
 
 <!-- I care about clean code and solid architecture. Not because someone
 told me to, but because I've read enough messy code to know the difference. -->
 
-> Most of my projects are private for now — they'll go public when
-> they're ready. I'm not in a rush, I'm in a process. 🚧
+> For now, Most of my projects are private -they'll go public when
+> they're ready. 
+> I'm not in a rush, I'm in a process. 
 
 ---
 
