@@ -37,7 +37,7 @@ told me to, but because I've read enough messy code to know the difference. -->
   <img src="https://raw.githubusercontent.com/AllyCatHQ/allycat-core/main/assets/demo-optimize.gif" width="720" alt="AllyCat scanning a project in the terminal and reporting accessibility issues with exact file and line numbers">
 </p>
 
-- **3K+ npm downloads** — 1,000+ of them in the first 1.5 weeks after launch
+- **3K+ npm downloads**
 - Scans JSX/TSX, Vue, Angular & HTML **without a running server** — exact line numbers, zero build tools required
 - `allycat fix` hands the found issues straight to **Claude Code** in a new terminal to fix them
 - Watch mode, `--baseline` flag, CI gates, WCAG 2.1 / 2.2 AA via axe-core
