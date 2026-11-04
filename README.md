@@ -96,6 +96,23 @@ Stops Instagram Reels and endless scrolling the moment they start, then offers s
 <sub><b>Java · Android · Material Components</b></sub>
 <br><br>
 
+<h3><img src="assets/calcal-icon.png" width="28" align="center" alt=""> CalCal – Calorie Tracker</h3>
+<img src="https://img.shields.io/badge/Google_Play-coming_soon-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Coming soon to Google Play">
+<img src="https://img.shields.io/badge/source-private-lightgrey?style=flat-square&logo=github" alt="Source code is private">
+<a href="https://youtube.com/shorts/K1CbH10DaLY"><img src="https://img.shields.io/badge/Promo_video-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Promo video on YouTube"></a>
+<br><br>
+A calorie tracker I started as a student to prepare for judo competitions. Friends and athletes asked for it, so I kept building it from their feedback for years, often between national-team training sessions. Later I refactored the whole codebase line by line to clean-code standards.
+<br><br>
+<p align="center">
+<a href="https://youtube.com/shorts/K1CbH10DaLY"><img src="assets/calcal-demo.gif" width="31%" alt="CalCal promo: your whole day in one number, meals grouped into breakfast, lunch and dinner, instant search or barcode scan, and saved personal products"></a>
+<img src="assets/calcal-home.png" width="31%" alt="CalCal home screen with the daily calorie ring and breakfast, lunch and dinner subtotals">
+<img src="assets/calcal-meals.png" width="31%" alt="CalCal daily log grouped into sticky breakfast, lunch and dinner sections">
+</p>
+<sub>874-product built-in catalog · barcode scanning (ZXing) · in-app web-search fallback for unknown products · meals grouped by time with a 05:00 day start · custom products & units · undo delete · 6 languages incl. RTL · light/dark/system theme</sub>
+<br>
+<sub><b>Java · Android · Material 3 · Gson</b> · 650+ commits</sub>
+<br><br>
+
 <table>
 <tr>
 <td width="50%" valign="top">
