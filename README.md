@@ -45,6 +45,7 @@ told me to, but because I've read enough messy code to know the difference. -->
 - Built with Node.js, Playwright, JSDOM, Babel, Chokidar, ESM
 - Open source under the **[AllyCatHQ](https://github.com/AllyCatHQ)** GitHub org
 
+
 ### [Dotmarket](https://github.com/dotcomico/dotmarket) — Full-Stack Supermarket + AI Assistant
 > A full online supermarket: a customer storefront and a complete admin back office.
 
